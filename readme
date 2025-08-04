@@ -1,0 +1,30 @@
+# Intern Dashboard
+
+## 🔗 Live Demo
+
+Frontend: [Vercel Link]  
+Backend: [Render Link]
+
+## 🚀 Features
+
+- Dashboard with Intern Info
+- Referral Code
+- Donations Raised
+- Rewards Display
+- Leaderboard
+
+## 📦 Stack
+
+- Frontend: React + Axios
+- Backend: Node.js + Express
+- Data: Static JSON
+
+## 📄 Setup Instructions
+
+### Backend:
+
+```bash
+cd backend
+npm install
+node server.js
+```
